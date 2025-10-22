@@ -32,8 +32,7 @@
 
 ### 🔗 Connect Sama Gw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvitorifky)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/alvitorifky)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/alvito_rifky02)
 
 ---
 
