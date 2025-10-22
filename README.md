@@ -1,4 +1,4 @@
-# 👋 Hai, gw Alvito Rifky  
+# Alvito Rifky  Ridwan
 
 > Mahasiswa yang doyan ngulik hal baru, ngoding sampe lupa waktu, dan suka ngulik AI, data, sama web dev.  
 > Motto hidup: *“Kalau error, ya dibenerin — bukan ditinggalin 😎”*
